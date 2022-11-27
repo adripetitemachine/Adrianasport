@@ -1,0 +1,400 @@
+div.menu {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Martel Sans';
+    color: #2F4858;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 44px;
+    display: inline;
+    
+   
+}
+
+nav{
+    padding-top: 44px;
+	height: 44px;
+	width: 196px;
+   
+	
+}
+
+   /* Frame */
+#home {
+    position: absolute;
+    width: 210px;
+    height: 51px;
+    padding-top: 3px;
+    padding-left: 106px;
+    top: 33px;
+
+}
+/* ADDRESS */
+#address {
+    position: absolute;
+    width: 119px;
+    height: 44px;
+    left: 863px;
+    top: 44px;
+    text-decoration-line: none;
+
+/* identical to box height */
+}
+
+/* CONTACT */
+#contact{
+    position: absolute;
+    width: 117px;
+    height: 44px;
+    left: 671px;
+    top: 44px;    
+    text-decoration-line: none;
+/* identical to box height */
+}
+
+/* OUR PRODUCTS */
+#ourproducts {
+    position: absolute;
+    width: 196px;
+    height: 44px;
+    left: 417px;
+    top: 42px;
+    text-decoration-line: none;
+}
+
+/* identical to box height */
+
+
+/* REQUEST A DEMO */
+#requestademo{
+
+    position: absolute;
+    width: 220px;
+    height: 28px;
+    left: 1090px;
+    top: 44px;
+    color: #FFFFFF;
+    text-decoration-line: none;
+    text-align: center;
+ 
+    width: 305px;
+    height: 45.85px;
+    left: 1000px;
+    top: 41px;
+    background: #0DC2F7;
+    border-radius: 20px;
+
+}
+/* highlight the button*/
+
+
+Body{
+    background-color: white;
+    font-family: "Martel Sans, Port Lligat Sans, Patrick Hand";
+
+}
+
+
+
+   /* img hands&hearts */
+
+img.hands{
+    padding-left: 108px;
+    width: 647px;
+    height: 482px;
+    
+
+}
+
+h1 {
+    
+    width: 527px;
+    height: 354px;
+    
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 64px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Martel Sans';
+	color: #2F4858;
+
+    
+}
+/* OUR MISSION */
+
+
+ h2 {
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans";
+    font-size: 44 px;
+    letter-spacing: 0.1em;
+    position: absolute;
+    font-style: 700;
+    line-height: 73px;
+    color :#2F4858;
+    width: 223px;
+    padding-top: 76px;
+    padding-left: 76px;
+
+
+}
+
+p{
+     
+    text-align: left;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans";
+    font-size: 28px;
+    color: #2F4858;
+    line-height: 40PX;
+   
+}
+
+#ourvission{
+   padding-left: 500px;
+    text-align: left;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans";
+    font-size: 22px;
+    color: #2F4858;
+   
+   
+}
+#statement{
+    display: flexbox;
+    text-align: left;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans";
+    font-size: 22px;
+    color: #2F4858;
+    line-height: 40PX;
+
+}
+
+
+.jmurphy {
+    box-sizing: border-box;
+    display: inline-block;
+    position: absolute;
+    width: 225px;
+    height: 237px;
+    left: 151px;
+    top: 950px;
+}
+
+#statement{
+    display: inline-block;
+    position: absolute;
+    width: 778px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'martel sans';
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+/* Left column */
+div.leftcolumn {   
+    position: absolute;
+    width: 778px;
+    height: 300px;
+    left: 537px;
+    top: 952px;
+
+        
+}
+
+.rightcolumn {
+   /* Ellipse 1 */
+   left: 151px;
+   top: 950px;
+
+    
+
+}
+
+ div.rightcolumn img {
+    align-items: center;
+    padding-top: 28px;
+    padding-left: 151px;
+
+   
+
+ }
+
+ /* Rectangle 3 */
+
+div.flex-container{
+    padding: 100px;
+    margin-top: 50px;
+    align-items: flex-end;
+
+
+
+
+}
+
+
+
+
+
+
+h4{
+    position: absolute;
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans";
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 73px;
+    letter-spacing: 0.1em;
+    color :#2F4858;
+    width: 223px;
+    padding-top: 100px;
+   
+
+}
+h5{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans" ;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 44px;
+    color: #2F4858;
+    font-style: normal;
+
+
+    /*****FOOTER****/
+    
+    .socialmedi {
+            
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans";
+            height: 136px;
+            justify-content: "space-between";
+    }
+
+
+
+h3{
+  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans" ;
+    font-weight: 700;
+    font-size: 24px;
+    color: #2F4858;
+    line-height:44px;
+
+}
+.copy{
+    text-decoration-color: #2F4858;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, "martel sans" ;
+
+}
+
+
+/******ADDRESSS*****/
+
+ 
+/* contact */
+.box1 {
+    display: block;
+    padding-left: 300px;
+    padding-right: 50px;
+
+}
+
+.box3{
+    display: flex;
+    width: 744px;
+    height: 429px;
+
+
+}
+input{
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    background: #2F4858;
+    border-radius: 20px;
+}
+label {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'sans-serif';
+    font-size: 20px;
+    color: #2F4858;
+}
+
+.contactbox {
+	padding-top:5%;
+	padding-top:5%;
+	display:flex;
+	justify-content:space-around;
+
+}
+
+
+
+.button {
+	background-color: #F67575;
+	border: none;
+	color: white;
+	padding: 16px 50px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+input{
+	border-radius: 8px;
+	padding-top:2%;
+
+}
+
+button{
+    
+	font-family: 'Martel Sans';
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+
+    
+}
+
+.box1 {
+display: inline-block;
+
+}  
+
+h6{
+    
+    font-family: 'Martel Sans';
+    line-height: 64px;
+    font-weight: 600;
+    font-size: 48px;
+ 
+    color: #2F4858;
+
+}
+
+/**** blog***/
+
+  
+  /* Clear floats after image containers */
+  .row2 {
+   
+    clear: both;
+    display: table;
+  }
+
+  /**** display brands that back up the company///
+  /* Three image containers (use 25% for four, and 50% for two, etc) */
+.columnlogo {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after image containers */
+ 
+
+
+
+
+
+  
+  
+  
